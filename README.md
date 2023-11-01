@@ -67,5 +67,5 @@ The logistic regression model has a precission of 100%  on predicting healthy lo
  section in the notebook is not required. 
  It used to be taught in this class but isn't anymore.
 
-If you do not recommend any of the models, please justify your reasoning.
-With an overall accuracy of 99% would not recommend model 1, but would point out that there will be loans incorrectly predicted as high risk and therefore losing potential lenders.
+## If you do not recommend any of the models, please justify your reasoning.
+With an overall accuracy of 99% would not recommend model 1, but would point out that there will be loans incorrectly predicted as high risk and therefore losing potential loan opportunities.
