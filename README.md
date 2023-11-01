@@ -8,7 +8,7 @@ Supervised Machine Learning
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 ### Explain the purpose of the analysis.
-The purpose of this is to see how well the logistical regression model can predict the credit risk of potential lenders.
+The purpose of this is to see how well the logistical regression model can predict the credit risk of loan applicants.
 
 ### Explain what financial information the data was on, and what you needed to predict.
 The target value that we are using is the loan status. The features used to predict the target are loan_size, interest_rate, borrower_income, debt_to_income, num_of_accounts, derogatory_marks,and total_debt
