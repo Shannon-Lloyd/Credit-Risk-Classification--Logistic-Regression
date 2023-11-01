@@ -14,7 +14,7 @@ The purpose of this is to see how well the logistical regression model can predi
 The target value that we are using is the loan status. The features used to predict the target are loan_size, interest_rate, borrower_income, debt_to_income, num_of_accounts, derogatory_marks,and total_debt
 
 ### Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-The value counts lets us know how large the data set is before splitting into training and testing sets so we can have an idea of how the data is divided when we compare it to the confusion matrix.  It also lets us know how balanced our data set is. With this data set we can see that 75036 healthy loans vs 2500 high risk loans should produce results that are far less accurate for high risk loans since there is such a large difference in the amount of data.
+The value counts  lets us know how balanced our data set is. With this data set we can see that 75036 healthy loans vs 2500 high risk loans should produce results that are far less accurate for high risk loans since there is such a large difference in the amount of data.
 
 ### Describe the stages of the machine learning process you went through as part of this analysis.
  * Decide what you want to predict and seperate that out as the target data to create a label. Remove the target data from the rest of the data to declare the features used to predict the target.
